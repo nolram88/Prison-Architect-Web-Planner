@@ -1,0 +1,29 @@
+{
+  "name": "Online-Tile-Map-Editor",
+  "version": "0.1.2",
+  "description": "A web based tile map editor for all kinds of 2d games and applications.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elias94xx/Online-Tile-Map-Editor.git"
+  },
+  "keywords": [
+    "online",
+    "tile",
+    "map",
+    "editor",
+    "html5"
+  ],
+  "author": "Elias Schütt",
+  "license": "CC BY-NC-SA 4.0",
+  "bugs": {
+    "url": "https://github.com/elias94xx/Online-Tile-Map-Editor/issues"
+  },
+  "homepage": "http://elias94xx.github.io/Online-Tile-Map-Editor/",
+  "devDependencies": {
+
+    "grunt": "~0.4.5",
+    "grunt-contrib-requirejs": "~0.4.1",
+    "grunt-sass": "1.1.0",
+    "grunt-contrib-jshint": "~0.8.0"
+  }
+}
