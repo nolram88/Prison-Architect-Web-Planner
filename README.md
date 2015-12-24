@@ -9,6 +9,33 @@ I made most of this from ripping from other open source projects including [Open
 
 ----
 
+# PLEASE UNDERSTAND THAT THIS IS A WORK IN PROGRESS AND I AM REALLY LAZY
+
+##How To Use It
+
+At the moment all you can do is import the sprites from your prison architect data files.
+
+You will need these files
+
+*materials.txt
+*tileset.png
+*objects.png
+
+To get access to the three files you will need to follow the wiki: [modifying game files](http://prisonarchitectwiki.com/wiki/Modding_guide#Modifying_the_Game_Files)
+
+When you get those files save them somewhere convinient.
+
+To use them with this tool simply 
+
+1. click  'add tileset'
+2. choose tileset.png as the image and meterials.txt as the metadata and click add tileset in the popup
+3. the window in the top right should show the pieces of the terrain you can use.
+
+4 the objects work the same way as above using materials.txt as the metadata as well.
+5. select the tiles you want from the window and place them on the canvas
+
+
+
 ##Features
 
 ###### Implemented
@@ -20,7 +47,9 @@ I made most of this from ripping from other open source projects including [Open
   * Fancy UI
 
 ###### In Progress
-
+  * ZOOM please
+  * Prison size presets
+  * Rooms
   * Animated tiles `(for a more alive environment)`
   
   * Tools `(select, fill, flip/rotate, ...)`
