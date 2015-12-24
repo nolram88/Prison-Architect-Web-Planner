@@ -4,7 +4,8 @@ A web based prison planner for the game: Prison Architect
 **Open source under the GPL license.**  
 **Live Demo: Remind me **  
 
-Please note that this is just a hobby project I put together in less than a week
+Please note that this is just a hobby project I put together in less than a week.
+I made most of this from ripping from other open source projects including [Open tile map editor](https://github.com/elias-schuett/Online-Tile-Map-Editor)
 
 ----
 
