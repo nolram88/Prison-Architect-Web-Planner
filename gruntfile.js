@@ -10,7 +10,7 @@ module.exports = function(grunt) {
 					outputStyle: "compressed"
 				},
 				files: {
-					"www/build/build.css": "src/css/main.scss"
+					"app/build/build.css": "src/css/main.scss"
 				}
 			}
 		},
@@ -25,7 +25,7 @@ module.exports = function(grunt) {
 				expr: true
 			},
 			before: ["src/js/*.js", "src/js/modules/*.js"],
-			after: ["www/build/build.js"]
+			after: ["app/build/build.js"]
 		},
 
 		requirejs: {
@@ -33,7 +33,7 @@ module.exports = function(grunt) {
 				options: {
 					name: "main",
 					baseUrl: "src/js",
-					out: "www/build/build.js",
+					out: "app/build/build.js",
 					mainConfigFile: "src/js/main.js",
 					include: ["libs/require.js"]
 					// optimize: 'uglify2',
