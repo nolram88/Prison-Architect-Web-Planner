@@ -4,7 +4,7 @@
   "description": "A web based tile map editor for all kinds of 2d games and applications.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/elias94xx/Online-Tile-Map-Editor.git"
+    "url": "https://github.com/nolram88/Prison-Architect-Web-Planner.git"
   },
   "private": true,
   "scripts": {
@@ -22,9 +22,9 @@
   "author": "Elias Schütt",
   "license": "CC BY-NC-SA 4.0",
   "bugs": {
-    "url": "https://github.com/elias94xx/Online-Tile-Map-Editor/issues"
+    "url": "https://github.com/nolram88/Prison-Architect-Web-Planner/issues"
   },
-  "homepage": "http://elias94xx.github.io/Online-Tile-Map-Editor/",
+  "homepage": "https://github.com/nolram88/Prison-Architect-Web-Planner/",
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-contrib-requirejs": "~0.4.1",

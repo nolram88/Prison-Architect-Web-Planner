@@ -1,5 +1,5 @@
 module.exports = function(grunt) {
-
+grunt.loadNpmTasks('grunt-express-server');
 	grunt.initConfig({
 
 		pkg: grunt.file.readJSON("package.json"),
