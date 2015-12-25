@@ -30,7 +30,7 @@ require.config({
 		"editor": "modules/editor",
 		"underscore": "libs/underscore",
 		"text": "plugins/text",
-		"templates": "../templates",
+		"templates": "../templates"
 		
 		
 	}
